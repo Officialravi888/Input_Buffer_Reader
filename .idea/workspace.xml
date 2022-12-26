@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ff3aa3c-4677-4f0d-9cf1-4f322e7a0767" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File_Create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Name_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NamePrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +39,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Name_Print">
+  <component name="RunManager" selected="Application.NamePrint">
     <configuration name="File_Create" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File_Create" />
+      <module name="input buffer reader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NamePrint" />
       <module name="input buffer reader" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NamePrint" />
         <item itemvalue="Application.Name_Print" />
         <item itemvalue="Application.File_Create" />
         <item itemvalue="Application.UserInput" />
